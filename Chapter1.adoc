@@ -10,3 +10,23 @@
 === Availability
 === DAD, Overprotection, Authenticity, Non-repudation, and AAA Services
 === Protection Mechanisms
+== Security Boundries
+== Evaluate and Apply Security Governance Principles
+=== Third-Party Governance
+=== Documentation Review
+== Manage The Security Function
+=== Alignment of Security Function to Business Strategy, Goals, Mission, and Objectives
+=== Organizational Processes
+=== Organizational Roles and Responsibilites
+=== Security Control Frameworks
+=== Due Diligence and Due Care
+== Security Policy, Standards, Procedures, and Guidelines
+=== Security Policies
+=== Security Standards, Baselines, and Guidelines
+=== Security Procedures
+== Threat Modeling
+=== Identifying Threats
+=== Determining and Diagramming Potential Attacks
+=== Performing Reduction Analysis
+=== Prioritization and Response
+== Supply Chain Risk Management
