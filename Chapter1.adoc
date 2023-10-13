@@ -3,6 +3,24 @@
 = Chapter 1: Security Governance Through Principles and Policies
 
 == Security 101
+*_Information Technology (IT):_* The hardware and software that support the operations or functions of a business.
+
+*_Security:_* The business management tool that ensures the reliable and protected operation of IT/IS.
+
+*_Common Types of Security Evaluations:_*
+
+- Risk Assessment
+- Vulnerability Assessment
+- Penetration Testing
+
+*_Risk Assessment:_* The process of identifying assets, threats, and vulnerabilities, and then using that information to calculate risk.
+
+*_Vulnerability Assessment:_* The use of automated tools to locate known security weaknesses, which can by addressed by adding in more defenses or adjusting the existing protections.
+
+[NOTE]
+====
+Security should be cost-effective
+====
 
 == Understand and Apply Security Concepts
 === Confidentiality
