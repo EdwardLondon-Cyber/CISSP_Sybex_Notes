@@ -1,6 +1,27 @@
 = Business Continuity Planning
 
+*_Business Contiuity Planning (BCP):_* Involves assessing the risk to organizational processes and creating policies, plans, and procedures to minimixe the impact those risks might have on the organization if they were to occur.
+
 == Planning for Business Continuity
+
+A Business Continuity Plan is used to maintain the continuous operation of a business in the event of the emergency
+
+Business Continuity Plans vs Disaster Recovery Plans
+
+* Business Continuity Plans ( Strategic Level/Business Processes)
+* Disaster Recovery Plans (Tactical Level/Technical implementation)
+
+*_The BCP process has four main steps_*
+
+* Project scope and planning
+
+* Business impact analysis
+
+* Continuity Planning
+
+* Approval and Implementation
+
+
 
 == Project Scope and Planning
 === Organizational Review
