@@ -1,1 +1,97 @@
+= Personnel Security and Risk Managment
 
+== Personal Security Policies and Procedures
+
+=== Job Descriptions and Responsibilities
+
+=== Candidate Screening and Hiring
+
+=== Onboarding: Employment Agreements and Policies
+
+=== Employee Oversight
+
+=== Offboarding, transfers, and Termination Processes
+
+=== Vendor, Consultant, and Contractor Agreements and Controls
+
+=== Compliance Policy Requirments
+
+=== Privacy Policy Requirements
+
+== Understand and Apply Risk Management Concepts
+
+=== Risk Terminology and Concepts
+
+=== Asset Valuation
+
+=== Indentify Threats and Vulnerabilites
+
+=== Risk Assessment/Analysis
+
+=== Risk Responses
+
+=== Cost vs. Benefit of Security Controls
+
+=== Countermeasure selection and Implementation
+
+=== Applicable types of Controls
+
+=== Security Control Assessment
+
+=== Monitoring and Measurement
+
+=== Risk Reporting and Documentation
+
+=== Continuous Improvement
+
+=== Risk Frameworks
+
+== Social engineering
+
+=== Social Engineering Principles
+
+=== Eliciting Information
+
+=== Prepending
+
+=== Phishing
+
+=== Spear Phishing
+
+=== Whaling
+
+=== Smishing
+
+=== Vishing
+
+=== Spam
+
+=== Shoulder Surfing
+
+=== Invoice Scams
+
+=== Hoax
+
+=== Impersonation and Masquerading
+
+=== Tailgating and Piggybackign
+
+=== Dumpster Diving
+
+=== Identity Fraud
+
+=== Typo Squatting
+
+=== Influence Campaigns
+
+== Establish and Maintain a Security Awareneess, Education, and Training Program
+
+=== Awareness
+
+=== Training
+
+=== Education
+
+=== Improvements
+
+=== Effectiveness Evaluation
