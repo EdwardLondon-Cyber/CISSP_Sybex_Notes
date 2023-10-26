@@ -1,0 +1,43 @@
+= Security Assessment and Testing
+
+== Building a Security Assessment and Testing Program
+
+=== Security Testing
+
+=== Security Assessments
+
+=== Security Audits
+
+== Performing Vulnerability Assessments
+
+=== Describing Vulnerabilities
+
+=== Vulnerability Scans
+
+=== Penetration Testing
+
+=== Compliance Checks
+
+== Testing Your Software
+
+=== Code Review and Testing
+
+=== Interface Testing
+
+=== Misuse Case Testing
+
+=== Test Coverage Analysis
+
+=== Website Monitoring
+
+== Implementing Security Management Processess
+
+=== Log Reviews
+
+=== Account Management
+
+=== Disaster Recovery and Business Continuity 
+
+=== Training and Awareness
+
+=== Key Performance and Risk Indicators 
