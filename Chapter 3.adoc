@@ -11,6 +11,11 @@ Business Continuity Plans vs Disaster Recovery Plans
 * Business Continuity Plans ( Strategic Level/Business Processes)
 * Disaster Recovery Plans (Tactical Level/Technical implementation)
 
+[NOTE]
+====
+The Top priority of the BCP and DRP is *_Always people_*.
+====
+
 *_The BCP process has four main steps_*
 
 * Project scope and planning
