@@ -1,1 +1,75 @@
+= Managing Security Operations
 
+== Apply Foundational Security Operations Concepts
+
+=== Need to Know and Least Privlege
+
+=== Seperation of Duties (SOD) and Responsibilities
+
+=== Two-Person Control (SOG PG.768/AIO PG.)
+
+=== Job Rotation (SOG PG.768/AIO PG.)
+
+=== Mandatory Vacations
+
+=== Privileged Account Management
+
+=== Service Level Agreements (SLAs)
+
+== Addressing Personnel Safety and Security
+
+=== Duress
+
+=== Travel
+
+=== Emergency Management
+
+=== Security Training and Awareness
+
+== Provision Resources Securely
+
+=== Information and Asset Ownership
+
+=== Asset Management
+
+== Apply Resource Protection
+
+=== Media Management
+
+=== Media Protection Techniques
+
+== Managed Services in the Cloud
+
+=== Shared Responsibility with Cloud Service Models
+
+=== Scalability and Elasticity
+
+== Perform Configuration Management (CM)
+
+=== Provisioning
+
+=== Baselining
+
+=== Using Images for Baselining
+
+=== Automation
+
+== Managing Change
+
+=== Change Management 
+
+=== Versioning
+
+=== Configuration Documentation
+
+== Managing Patches and Reducing Vulnerabilities
+
+=== System to Manage
+
+=== Patch managment
+
+=== Vulnerability managment
+
+=== Vulnerability Scans
+
+=== Common Vulnerabilites and Exposures
