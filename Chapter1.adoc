@@ -46,7 +46,7 @@ Security should be cost-effective
 * Asset Owner
 * Custodian
 * User
-*Auditor
+* Auditor
 
 === Due Diligence and Due Care
 == Security Policy, Standards, Procedures, and Guidelines
