@@ -1,1 +1,32 @@
+= Managing Identity and Authentication
 
+== Controlling access to Assets
+=== Controlling Physical and Logical Controls
+=== The CIA Triad and Access Controls
+== Managing Identification and Authentication
+=== Comparing Subjects and Objects
+=== Registration, Proofing, and Establishment of Identity
+=== Authorization and Accountability
+=== Authentication Factors Overview
+=== Something You Know
+=== Something You Have
+=== Something You Are
+=== Multifactor Authentication (MFA)
+=== Two-factor Authentication with Authenticatior Apps
+=== Passwordless Authentication
+=== Device Authentication
+=== Service Authentication
+=== Mutual Authentication
+== Implementing Identity Management
+=== Single Sign-on (SSO)
+=== SSO and Federated Identities
+=== Credential Management Systems
+=== Credential Management Apps
+=== Scripted Access
+=== Session Management
+== Managing the Identity and Access Provisoning Lifecycle
+=== Provisioning and Onboarding
+=== Deprovisioning and Offboarding
+=== Defining New Roles
+=== Account Maintenance
+=== Account Access Review
