@@ -37,6 +37,17 @@ Security should be cost-effective
 === Organizational Processes
 === Organizational Roles and Responsibilites
 === Security Control Frameworks
+*_Security Role:_* The part an individual plays in the overall scheme of security implementation and administration within an orgnanization.
+
+*_Common Security Roles_*
+
+* Senior Manager
+* Security Professional
+* Asset Owner
+* Custodian
+* User
+*Auditor
+
 === Due Diligence and Due Care
 == Security Policy, Standards, Procedures, and Guidelines
 === Security Policies
