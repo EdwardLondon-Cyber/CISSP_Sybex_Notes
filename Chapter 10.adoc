@@ -1,1 +1,22 @@
+= Physical Security Requirements
 
+== Apply Security Principles to Site and Facility Design
+=== Security Facility Plan
+=== Site Selection
+=== Facility Design
+== Implement Site and Facility Security Controls
+=== Equipment Failure
+=== Wiring Closets
+=== Server Rooms/Data Centers
+=== Intrusion Detection Systems
+=== Cameras
+=== Access Abuses
+=== Media Storage Facilities
+=== Evidence Storage
+=== Restricted and Work Area Security
+=== Utility Considerations
+=== Fire Prevention, Detection, and Suppression
+== Implement and Manage Physical Security
+=== Perimeter Security Controls
+=== Internal Security Controls
+=== Key Performance Indicators fo Physical Security
